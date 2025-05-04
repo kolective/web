@@ -1,9 +1,11 @@
 # Kolective
 
+https://kolective.vercel.app/
+
 Kolective is a cutting-edge Web3 platform that combines AI-driven insights with social investing, enabling users to make informed trading decisions effortlessly. The platform offers AI-powered risk profiling, Key Opinion Leader (KOL) recommendations, automated trading, and token management features.
 
 ## 🌐 Live Demo
-[Kolective Website](https://kolective-ethsf.vercel.app)
+[Kolective Website](https://kolective.vercel.app)
 
 ---
 
